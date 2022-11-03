@@ -1,0 +1,12 @@
+body{
+    font-family: arial; 
+}
+p{
+    font-size: 18px;
+}
+.alert-error{
+    color:red;
+}
+.alert-success{
+    color:green;
+}
